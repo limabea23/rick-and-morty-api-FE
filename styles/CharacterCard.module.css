@@ -1,5 +1,5 @@
 .card {
-    background-color: #f5f0dc;
+    background-color: #8400ff9c;
     width: 275px;
     padding: 1rem;
     border-radius: 15px;
@@ -16,7 +16,15 @@
     border-radius: 50%;
 }
 
-.title {
+.name {
     margin: 10px 0 5px;
     font-size: 20px;
+    text-align: left;
+}
+
+.status, 
+.species,
+.type,
+.gender {
+    text-align: left;
 }
